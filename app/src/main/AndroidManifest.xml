@@ -7,7 +7,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_gengar"
-        android:label="MT 2025 App"
+        android:label="MT 2026 App"
         android:roundIcon="@mipmap/ic_gengar_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MobileTechApp" >
